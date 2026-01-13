@@ -1,0 +1,21 @@
+{
+  "mod_cinema": {
+    "x": 1776,
+    "y": 737,
+    "width": 84,
+    "height": 27
+  },
+  "mod_normale": {
+    "x": 1125,
+    "y": 709,
+    "width": 87,
+    "height": 28
+  },
+  "mod_schermo_intero": {
+    "x": 1771,
+    "y": 911,
+    "width": 84,
+    "height": 30
+  }
+
+}
